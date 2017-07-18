@@ -10,7 +10,8 @@ I've made this list to better keep track of the conferences I might attend.
 
 Conference | Dates | Proposals (CFPs) | Location
 -----------|-------|-----------|----------
-[PyCon JP](http://) | Sep 7th - 9th  | [Closed](http://pyconjp.blogspot.co.id/2017/07/talk-selection-announcement.html?utm_source=dlvr.it&utm_medium=twitter) | Tokyo, Japan
+[Pycon HK](http://[pycon.hk) | Oct 14th - 15th | TBA | Cyberport, Hongkong
+[PyCon JP](http://pycon.jp) | Sep 7th - 9th  | [Closed](http://pyconjp.blogspot.co.id/2017/07/talk-selection-announcement.html?utm_source=dlvr.it&utm_medium=twitter) | Tokyo, Japan
 [PyCon APAC](http://pycon.my) | Aug 26th - 27th  | [Closed](https://pycon.my/pycon-apac-2017-program-schedule/) | Kuala Lumpur, Malaysia
 
 ## Golang
