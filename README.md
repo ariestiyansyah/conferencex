@@ -36,10 +36,9 @@ Conference | Dates | Proposals (CFPs) | Location
 [NodeConf Argentina](https://2017.nodeconf.com.ar) | Oct 26th - 28th | [Jul 15th](https://2017.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina
 [RuhrJS](https://ruhrjs.de/) | Oct 14th - 15th | Unknown | Bochum, Germany
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive) | Oct 4th - 7th | [Apr 10th](http://events.linuxfoundation.org/events/node-interactive/program/cfp-details) | Vancouver, Canada
-
 [JSConf Budapest](http://jsconfbp.com) | Sep 14th - 15th | [Apr 30th](http://jsconfbp.com/call-for-speakers) | Budapest, Hungary
 
-Geek
+## Geek
 
 ### 2017
 
