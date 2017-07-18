@@ -36,7 +36,7 @@ Conference | Dates | Proposals (CFPs) | Location
 [NodeConf Argentina](https://2017.nodeconf.com.ar) | Oct 26th - 28th | [Jul 15th](https://2017.nodeconf.com.ar/cfp.html) | Buenos Aires, Argentina
 [RuhrJS](https://ruhrjs.de/) | Oct 14th - 15th | Unknown | Bochum, Germany
 [Node.js Interactive North America](http://events.linuxfoundation.org/events/node-interactive) | Oct 4th - 7th | [Apr 10th](http://events.linuxfoundation.org/events/node-interactive/program/cfp-details) | Vancouver, Canada
-(https://docs.google.com/forms/d/e/1FAIpQLSdKW6Aj4H8duOhmr3NC6WHpCuTHySZPdXjc-whrGJ2DSFPJtQ/viewform) | Novosibirsk, Russia
+
 [JSConf Budapest](http://jsconfbp.com) | Sep 14th - 15th | [Apr 30th](http://jsconfbp.com/call-for-speakers) | Budapest, Hungary
 
 Geek
@@ -48,5 +48,5 @@ Conference | Dates | Proposals (CFPs) | Location
 [Geekcamp SG](http://geekcamp.sg) | Nov 18th, 2017  | [Open](https://www.papercall.io/geekcampsg) - Oct 15t 2017 | Singapore, Singapore
 [CubaConf](http://www.cubaconf.org/) | Nov 7th - 9th | [Sep 1st](https://www.papercall.io/cubaconf2017) | Havana, Cuba
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
-[DevFest Siberia](https://gdg-siberia.com) | Sep 23rd - 24th | [Jul 1st]
+[DevFest Siberia](https://gdg-siberia.com) | Sep 23rd - 24th | [Jul 1st](https://docs.google.com/forms/d/e/1FAIpQLSdKW6Aj4H8duOhmr3NC6WHpCuTHySZPdXjc-whrGJ2DSFPJtQ/viewform) | Novosibirsk, Russia
 [Geekcamp ID](http://geekcamp.id) | July 15th, 2017  | July 15th, 2017 | Jakarta, Indonesia
