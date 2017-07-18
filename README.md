@@ -19,7 +19,7 @@ Conference | Dates | Proposals (CFPs) | Location
 
 Conference | Dates | Proposals (CFPs) | Location
 -----------|-------|-----------|----------
-[Conference Name](http://) | Date  | TBA | City, Country
+[dotGo EU](https://www.dotgo.eu/) | Nov 7th | [Open](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) 6 week before event | Paris, France
 
 ## Javascript
 
@@ -48,5 +48,6 @@ Conference | Dates | Proposals (CFPs) | Location
 [CubaConf](http://www.cubaconf.org/) | Nov 7th - 9th | [Open](https://www.papercall.io/cubaconf2017) - Sep 1st | Havana, Cuba
 [OSCON EU](http://conferences.oreilly.com/oscon) | Nov 6th - 9th | TBA | Amsterdam, Netherlands
 [OpenSUSE.Asia Summit](https://events.opensuse.org/conference/summitasia17/) | Oct 21st - 22nd | [Open](https://events.opensuse.org/conference/summitasia17/) - Aug 14th | Chofu, Tokyo / Japan
+[Github Universe](https://githubuniverse.com/) | Oct 10th - 12th | [Open](http://cfp.githubapp.com/events/github-universe-2017) - Jul 28th | San Francisco, US
 [DevFest Siberia](https://gdg-siberia.com) | Sep 23rd - 24th | [Closed](https://docs.google.com/forms/d/e/1FAIpQLSdKW6Aj4H8duOhmr3NC6WHpCuTHySZPdXjc-whrGJ2DSFPJtQ/viewform) | Novosibirsk, Russia
 [Geekcamp ID](http://geekcamp.id) | July 15th, 2017 | Closed   | Jakarta, Indonesia
