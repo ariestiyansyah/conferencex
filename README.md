@@ -10,7 +10,7 @@ I've made this list to better keep track of the conferences I might attend.
 
 Conference | Dates | Proposals (CFPs) | Location
 -----------|-------|-----------|----------
-[Pycon HK](http://pycon.hk) | Nov 4th - 5th | [Open](http://pycon.hk/2017/) - Aug 24th | Cyberport, Hongkong
+[PyCon HK](http://pycon.hk) | Nov 4th - 5th | [Open](http://pycon.hk/2017/) - Aug 24th | Cyberport, Hongkong
 [PyCon PK](http://www.pycon.pk/) | Oct 28th - 29th | [Open](http://www.pycon.pk/proposals) - Aug 25th | Pakistan, Pakistan
 [PyCon JP](http://pycon.jp) | Sep 7th - 9th  | [Closed](http://pyconjp.blogspot.co.id/2017/07/talk-selection-announcement.html?utm_source=dlvr.it&utm_medium=twitter) | Tokyo, Japan
 [PyCon APAC](http://pycon.my) | Aug 26th - 27th  | [Closed](https://pycon.my/pycon-apac-2017-program-schedule/) | Kuala Lumpur, Malaysia
@@ -21,7 +21,7 @@ Conference | Dates | Proposals (CFPs) | Location
 
 Conference | Dates | Proposals (CFPs) | Location
 -----------|-------|-----------|----------
-[dotGo EU](https://www.dotgo.eu/) | Nov 7th | [Open](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) 6 week before event | Paris, France
+[dotGo EU](https://www.dotgo.eu/) | Nov 7th | [Open](https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1) - 6 wk before event | Paris, France
 
 ## Javascript
 
